@@ -1,0 +1,34 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-size: 4em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #004eb5;
+}
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3 {
+    font-family: sans-serif;
+}
+p {
+    font-size: 1.11em;
+    color: #0a0073;
+}
+
+sub {
+    background-color: #ff9ca1;
+    color: black;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #0058b0;
+    font-style: oblique;
+    text-decoration: none;
+}
+
